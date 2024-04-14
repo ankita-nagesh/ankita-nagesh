@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img alt="Welcome" src="welcome-cats" width="30%">
+  <img alt="Welcome" src="undraw_welcome_cats_thqn.svg" width="30%">
   <br>
   <samp>
     Hi there! 👋 <br>
